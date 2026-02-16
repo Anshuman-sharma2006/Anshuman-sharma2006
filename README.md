@@ -80,12 +80,14 @@
   <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshuman-sharma2006&show_icons=true&theme=radical&hide_border=true&cache_seconds=1200&count_private=true&include_all_commits=true" height="180"/> -->
 
   <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshuman-sharma2006&show_icons=true&theme=radical&hide_border=true&cache_seconds=1200&count_private=true&include_all_commits=true" height="180"/>
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshuman-sharma2006&show_icons=true&theme=radical&hide_border=true&cache_seconds=1200&count_private=true&include_all_commits=true" height="180"/> -->
 
 <!-- GitHub Activity Graph -->
 [![Anshuman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-sharma2006&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/Anshuman-sharma2006)
+[![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman-sharma2006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Anshuman-sharma2006)
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshuman-sharma2006&layout=compact&theme=radical&hide_border=true&cache_seconds=1200" height="180"/>
+
+  <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshuman-sharma2006&layout=compact&theme=radical&hide_border=true&cache_seconds=1200" height="180"/>-->
 </p>
 
 ---
