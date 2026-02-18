@@ -97,7 +97,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&cache_seconds=1200"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Anshuman-sharma2006&theme=tokyonight&hide_border=true)
 </p>
 
 ---
