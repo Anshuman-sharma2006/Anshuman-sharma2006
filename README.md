@@ -84,7 +84,8 @@
 
 <!-- GitHub Activity Graph -->
 [![Anshuman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-sharma2006&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/Anshuman-sharma2006)
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman-sharma2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman-sharma2006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/Anshuman-sharma2006)
+
 
 
 
