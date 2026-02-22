@@ -88,8 +88,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anshuman-sharma2006&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshuman-sharma2006&theme=radical" />
 
--->
 <h2 align="center">📊 GitHub Analytics</h2>
+-->
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-sharma2006&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
